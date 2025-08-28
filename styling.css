@@ -21,7 +21,7 @@ main {
 
     @media (max-width: 800px) {
         margin-top: 2rem;
-        width: 80vw;
+        width: 90vw;
     }
 
     .quote {
